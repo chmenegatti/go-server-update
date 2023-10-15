@@ -1,4 +1,4 @@
-package Service
+package service
 
 import "github.com/go-server-updater/src/configuration/rest_err"
 
